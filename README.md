@@ -1,6 +1,7 @@
 # auto-pancakes
 ## About
 A Python script that sends a randomized string of letters into a specific discord channel that tricks Pancake Bot (https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return. 
+- Made by [Marcus Sorensen](https://github.com/exec-marcus) and [Dante Fernando](https://github.com/dantefernando)
 
 ## Dependencies
  - **Selenium:** `pip install selenium`
