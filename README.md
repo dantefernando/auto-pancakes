@@ -15,4 +15,7 @@ A Python script that sends a randomized string of letters into a specific discor
 
 #### Changelog
 [April 4th 2020]
-V.10 Initial Build
+V1.0 Initial Build
+
+[April 5th 2020]
+V1.1 Added time to logs and made logs look nicer when sending messages to Discord :)
