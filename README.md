@@ -5,6 +5,7 @@ A Python script that sends a randomized string of letters into a specific discor
  - You must have Selenium and Chrome Webdriver installed on your computer
  - Change the Directory of the chromedriver.exe in LINE 18
  - Change the Discord Channel URL to whatever Discord Channel you prefer in LINE 20
+ - Change the XPATH of of the Discord text entry box to your preferred channel (Inspect the Text Entry Box > Right Click > Copy> Copy Full XPATH > Paste that into line 37)
 
 [April 4th 2020]
 V.10 Initial Build
