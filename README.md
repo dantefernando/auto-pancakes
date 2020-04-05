@@ -3,7 +3,7 @@
 A Python script that sends a randomized string of letters into a specific discord channel that tricks Pancake Bot (https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return. 
 
 ## Dependencies
- - You must have **Selenium** and **Chrome Webdriver** installed on your computer (pip install selenium and (https://chromedriver.chromium.org/downloads)
+ - You must have **Selenium** and **Chrome Webdriver** installed on your computer (`pip install selenium` and https://chromedriver.chromium.org/downloads)
  
  ## Setup
  - Change the username and password variables in "account.py" to your discord email and password for Login
