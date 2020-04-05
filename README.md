@@ -4,7 +4,7 @@ A Python script that sends a randomized string of letters into a specific discor
 
 ## Dependencies
  - **Selenium:** `pip install selenium`
- - **Chrome Webdriver** installed on your computer (https://chromedriver.chromium.org/downloads) *Choose the appropriate download for your chrome version* `chrome://version`
+ - **Chrome Webdriver** installed on your computer [Download here](https://chromedriver.chromium.org/downloads) *Choose the appropriate download for your chrome version* `chrome://version`
  
  ## Setup
  - Change the username and password variables in "account.py" to your discord email and password for Login
