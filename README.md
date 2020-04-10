@@ -22,9 +22,9 @@ A Python script that sends a randomized string of letters into a specific discor
  Inspect the Text Entry Box > Right Click > Copy> Copy Full XPATH > Paste that into LINE 37
  ```
 
-#### Changelog
-[April 4th 2020]
+## Changelog
+##### [April 4th 2020]
 **V1.0** Initial Build
 
-[April 5th 2020]
+#### [April 5th 2020]
 **V1.1** Added time to logs and made logs look nicer when sending messages to Discord :)
