@@ -7,7 +7,7 @@ A Python script that sends a randomized string of letters into a specific discor
  - **Selenium:** `pip install selenium`
  - **Chrome Webdriver** installed on your computer [Download here](https://chromedriver.chromium.org/downloads) *Choose the appropriate download for your chrome version* `chrome://version`
  
- ## Setup
+ ## Setup (IMPORTANT)
  - Change the username and password variables in "account.py" to your discord email and password for Login
  - Change the Directory of the chromedriver.exe in LINE 18
  - Change the Discord Channel URL to whatever Discord Channel you prefer in LINE 20
