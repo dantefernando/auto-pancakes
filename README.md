@@ -1,7 +1,8 @@
 # auto-pancakes
 ## About
-A Python script that sends a randomized string of letters into a specific discord channel that tricks Pancake Bot (https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return. 
-- Made by [Marcus Sorensen](https://github.com/exec-marcus) and [Dante Fernando](https://github.com/dantefernando)
+A Python script that sends a randomized string of letters into a specific discord channel that tricks Pancake Bot (https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return and automatically gets daily pancakes every 24 hours.
+- Made by [Dante Fernando](https://github.com/dantefernando)
+- Original Idea by [Marcus Sorensen](https://github.com/exec-marcus)
 
 ## Dependencies
  - **Selenium:** 
@@ -15,11 +16,11 @@ A Python script that sends a randomized string of letters into a specific discor
  
  ## Setup (IMPORTANT)
  - Change the **username** and **password** variables in "account.py" to your **discord email and password** for Login
- - Change the **Directory of the chromedriver.exe** in **LINE 18**
+ - Change the **Directory of the chromedriver.exe** in **LINE 169**
  - Change the **Discord Channel URL** to whatever Discord Channel you prefer in **LINE 20**
- - Change the **XPATH of of the Discord text entry box** for your preferred channel 
+ - Change the **XPATH of of the Discord text entry box** for your preferred channel in **LINE 41**
  ```
- Inspect the Text Entry Box > Right Click > Copy> Copy Full XPATH > Paste that into LINE 37
+ Open Chrome > Inspect the Text Entry Box > Right Click > Copy > Copy Full XPATH > Paste that into LINE 41
  ```
 
 ## Changelog
@@ -28,3 +29,6 @@ A Python script that sends a randomized string of letters into a specific discor
 
 #### [April 5th 2020]
 **v1.1** Added time to logs and made logs look nicer when sending messages to Discord :)
+
+#### [April 13th 2020]
+**v2.0** Automatically sends "!p daily" every 24 hours and remembers when your last "!p daily" was.
