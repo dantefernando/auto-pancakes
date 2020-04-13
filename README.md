@@ -31,4 +31,4 @@ A Python script that sends a randomized string of letters into a specific discor
 **v1.1** Added time to logs and made logs look nicer when sending messages to Discord :)
 
 #### [April 13th 2020]
-**v2.0** Automatically sends "!p daily" every 24 hours and remembers when your last "!p daily" was.
+**v2.0** Automatically sends "!p daily" every 24 hours and remembers when your last "!p daily" was sent.
