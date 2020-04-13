@@ -72,7 +72,7 @@ def get_log(task):  # Gets current Time for logging.
 
 def setupdaily(driver):  # Sends first !p daily when running the program for the first time
     word = "!p daily" + "\n"
-    get_log(f"Sending SETUP: {word.rstrip()}...")
+    get_log(f"Sending: {word.rstrip()}...")
     driver.find_element_by_xpath(
         "/html/body/div/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div/main/form/div/div/div/div/div["
         "3]/div[2]") \
@@ -98,7 +98,6 @@ def comparetimes(last_full):
             write_daily = True
             return write_daily
     else:
-        print("Too Early for your daily, try again!")
         write_daily = False
         return write_daily
 
