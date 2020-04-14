@@ -18,7 +18,7 @@ A Python script that sends a randomized string of letters into a specific discor
  - Change the **username** and **password** variables in "account.py" to your **discord email and password** for Login
  - Change the **Directory of the chromedriver.exe** in **LINE 169**
  - Change the **Discord Channel URL** to whatever Discord Channel you prefer in **LINE 20**
- - Change the **XPATH of of the Discord text entry box** for your preferred channel in **LINE 41**
+ - Change the **XPATH of of the Discord text entry box** for your preferred channel in **LINE 41** *(Code should work without this step)*
  ```
  Open Chrome > Inspect the Text Entry Box > Right Click > Copy > Copy Full XPATH > Paste that into LINE 41
  ```
