@@ -1,6 +1,6 @@
 # auto-pancakes
 ## About
-A Python script that sends a randomized string of letters into a specific discord channel that tricks Pancake Bot (https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return and automatically gets daily pancakes every 24 hours. Apon running auto-pancakes, a chrome window will open and automatically login, go to the set discord channel and start sending random messages. You can minimize the window after and leave it running in the background.
+A Python script that sends a randomized string of letters into a specific discord channel that tricks [Pancake Bot](https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return and automatically gets daily pancakes every 24 hours. Apon running auto-pancakes, a chrome window will open and automatically login, go to the set discord channel and start sending random messages. You can minimize the window after and leave it running in the background.
 
 - Made by [Dante Fernando](https://github.com/dantefernando)
 - Original Idea by [Marcus Sorensen](https://github.com/exec-marcus)
@@ -25,6 +25,7 @@ A Python script that sends a randomized string of letters into a specific discor
  ```
 
 ## Changelog
+
 ##### [April 4th 2020]
 **v1.0** Initial Build
 
@@ -32,4 +33,4 @@ A Python script that sends a randomized string of letters into a specific discor
 **v1.1** Added time to logs and made logs look nicer when sending messages to Discord :)
 
 #### [April 13th 2020]
-**v2.0** Automatically sends "!p daily" every 24 hours and remembers when your last "!p daily" was sent.
+**v2.0** Automatically sends "!p daily" every 24 hours and remembers when your last "!p daily" was sent. You'll never forget to redeem your daily pancakes ever again!
