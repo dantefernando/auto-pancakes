@@ -3,7 +3,7 @@
 A Python script that sends a randomized string of letters into a specific discord channel that tricks [Pancake Bot](https://pancake.gg) into thinking you're "active" therefore giving you Pancakes in return and automatically gets daily pancakes every 24 hours. Apon running auto-pancakes, a chrome window will open and automatically login, go to the set discord channel and start sending random messages. You can minimize the window after and leave it running in the background.
 
 - Made by [Dante Fernando](https://github.com/dantefernando)
-- Original Idea by [Marcus Sorensen](https://github.com/exec-marcus)
+- Original Idea by [Marcus Sorensen](https://github.com/marcus-dk)
 
 ## Dependencies
  - **Selenium:** 
