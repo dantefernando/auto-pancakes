@@ -2,7 +2,7 @@
 # https://github.com/dantefernando/auto-pancakes
 
 # Original Idea by Marcus Sorensen 2020
-# https://github.com/exec-marcus/randomideas/blob/master/pancakey2
+# https://github.com/marcus-dk/randomideas/blob/master/pancakey2
 
 import time
 import random
